@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-## Overview of the analysis
+## Overview of the Analysis
 The purpose of this analysis was to determine the following:
 - The number of retiring employees per title
 - The employees who are eligible to participate in a mentorship program
