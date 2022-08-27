@@ -28,3 +28,9 @@ The analysis of the PH Retiree employee data shows that:
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?** 
 
 There are likely not if we leave the mentorship program eligibility requirements as is. There are 72,458 roles to fill and only 1,549 employee's eligible to mentor. If we lowered the eligible age to mentor we could pool a greater number of employees to assist with mentorship. If we don't want to create a larger pool of mentors the company should consider modifying the pogram to have mutiple mentee's per mentor. With the engineering roles having the greatest number of retirees, I'd recommend the recruiters focus on hiring for those roles first and ensuring the mentorship program is fully built out for the enginneering teams to ensure the engineering department is set up for success!
+
+---
+**Contact:**
+
+Email: charlotte.rotner@gmail.com  
+Linkedin: https://www.linkedin.com/in/charlotte-rotner/
